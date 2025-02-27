@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋, I'm YeYint</h1>
+<h1 align="center">Hey there 👋, I'm YeYint</h1>
 
 ###
 
@@ -49,14 +49,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YeYintAungNaing&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="190" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=YeYintAungNaing&locale=en&mode=weekly&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
 </div>
 
 ###
